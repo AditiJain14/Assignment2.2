@@ -2,7 +2,7 @@
 # COL 341: Assignment 2
 
 ```
-Notes:
+Notes: [Refer to PDF]
 ```
 - This assignment has two parts - Neural Network and Convolutional Neural Networks.
 - You are advised to use vector operations (wherever possible) for best performance as the evaluation will be
